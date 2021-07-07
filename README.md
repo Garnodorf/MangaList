@@ -1,6 +1,6 @@
 # MangaList
 
-TODO:
+## TODO:
 - [X] Einlesen ins Barcode scannen
 - [ ] Barcode scannen implementieren
 - [ ] Herausfinden wie man vom Barcode an die Daten des Mangas kommt
