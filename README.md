@@ -12,3 +12,5 @@ TODO:
 -[] Einlesen in Material Design
 -[] GUI Planen
 -[] GUI erstellen
+
+ [ ] unchecked # [checkbox:unchecked]
